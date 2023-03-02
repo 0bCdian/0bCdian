@@ -18,7 +18,7 @@
 
 I'm Diego, a former electrical engineering student that fell in love with programming,I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I'm from Venezuela, currently living in Satiago de Chile, and moving soon to Spain.
+- :telescope: Interested in all things related to computers, like building them and making them talk.
 
 - :seedling: Animals are friends not food!
 
