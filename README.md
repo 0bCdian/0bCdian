@@ -14,7 +14,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About me:
 
 I'm Diego, a former electrical engineering student that fell in love with programming,I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
