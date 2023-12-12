@@ -18,13 +18,13 @@
 
 I'm Diego, a former electrical engineering student that fell in love with programming,I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Interested in all things related to computers, like building them and making them talk.
+- Interested in all things related to computers, like building them and making them talk.
 
-- :seedling: Animals are friends not food!
+- Animals are friends not food!
 
-- :rice: In my free time I love ricing my linux desktop, fellow member of r/unixporn and r/mk :keyboard:.
+- In my free time I love ricing my linux desktop, fellow member of r/unixporn and r/mk :keyboard:.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-parra-b1300b237/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-parra-b1300b237/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
