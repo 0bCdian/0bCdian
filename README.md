@@ -24,7 +24,7 @@ I'm Diego, a former electrical engineering student that fell in love with progra
 
 - In my free time I love ricing my linux desktop, fellow member of r/unixporn and r/mk :keyboard:.
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-parra-b1300b237/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegoparranava)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
