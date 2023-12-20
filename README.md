@@ -6,14 +6,6 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=0bCdian&style=flat-square&color=blue" alt=""/>
 
-### Hey there!
-
-I'm Diego, a former electrical engineering student that fell in love with programming,I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<br/>
-In my free time I love ricing my linux desktop, fellow member of r/unixporn 🍚  and r/mk :keyboard:
-
----
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0bCdian&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
