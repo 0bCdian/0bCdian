@@ -7,6 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=0bCdian&style=flat-square&color=blue" alt=""/>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=0bCdian)]()
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=0bCdian&theme=dark&background=000000)]()
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0bCdian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
